@@ -38,6 +38,13 @@ public class IncredibleCalculator {
 
                     break;
             case 4: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división entera.
+                    
+                    
+                    System.out.println("Diga el primer número")
+                    int n1=leerEnteroEntrada();
+                    System.out.println("Diga el segundo número");
+                    int n2=leerEnteroEntrada();
+
                     break;
             case 5: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división con decimales.
                     break;
