@@ -38,6 +38,8 @@ public class IncredibleCalculator {
 
                     break;
             case 2: // Restar. Debes leer dos números enteros de entrada e imprimir su resta
+System.out.println("Esto deberia restar");
+
                     break;
             case 3: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su producto.
                     break;
